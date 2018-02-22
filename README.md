@@ -2,6 +2,8 @@
 
 ### A curated list of OSX tools and workspace setups which I find useful and use on my own machine
 
+![Workspace](img/workspace.png)
+
 1. [Homebrew](https://brew.sh/) is your best friend on mac, start by installing it
 	* Use homebrew for every thing: `brew search git`
 	* Use cask for UI based apps: `brew cask install slack`
