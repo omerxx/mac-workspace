@@ -37,4 +37,21 @@
 	* Probably the most important piece of software I bought
 	* Costs a little, but ensures privacy, and keeps passwords / keys / tokens even credit cards
 	* Handles MFA with ease
-	* Installable with brew
+	* Installable with homebrew
+
+1. DataBase visualizers
+	* [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool
+	* [Medis](https://github.com/luin/medis) - Easy-to-use Mac database management application for Redis
+
+1. VPNs
+	* [TunnelBear](https://www.tunnelbear.com/) - Simple, private, free access to the open Internet
+	* [TunnelBlick](https://tunnelblick.net/) - Free software for OpenVPN on OS X
+
+1. VIM
+	* [MacVim](https://github.com/macvim-dev/macvim) - Provides better osx integration for plugins like YouCompleteMe
+	* [NeoVim](https://neovim.io/) - "The future of vim" comes with plugins and better basic setup
+	* [My .vimrc](https://github.com/omerxx/dotfiles/blob/master/vim/.vimrc) - With plugins and vundle ready
+	* [Vundle](https://github.com/VundleVim/Vundle.vim) - The plug-in manager for Vim
+	* Plugins (listed on .vimrc): [YouCompleteMe](https://github.com/Valloric/YouCompleteMe), [Ale](https://github.com/w0rp/ale), [vim-surround](https://github.com/tpope/vim-surround)
+	* A book (still reading it ~60% done) that took me 10 levels up with VIM: [Pratical Vim](https://www.amazon.com/Practical-Vim-Thought-Pragmatic-Programmers/dp/1934356980)
+
