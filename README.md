@@ -53,5 +53,5 @@
 	* [My .vimrc](https://github.com/omerxx/dotfiles/blob/master/vim/.vimrc) - With plugins and vundle ready
 	* [Vundle](https://github.com/VundleVim/Vundle.vim) - The plug-in manager for Vim
 	* Plugins (listed on .vimrc): [YouCompleteMe](https://github.com/Valloric/YouCompleteMe), [Ale](https://github.com/w0rp/ale), [vim-surround](https://github.com/tpope/vim-surround)
-	* A book (still reading it ~60% done) that took me 10 levels up with VIM: [Pratical Vim](https://www.amazon.com/Practical-Vim-Thought-Pragmatic-Programmers/dp/1934356980)
+	* A book that took me 10 levels up with VIM: [Pratical Vim](https://www.amazon.com/Practical-Vim-Thought-Pragmatic-Programmers/dp/1934356980)
 
