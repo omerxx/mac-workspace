@@ -55,3 +55,4 @@
 	* Plugins (listed on .vimrc): [YouCompleteMe](https://github.com/Valloric/YouCompleteMe), [Ale](https://github.com/w0rp/ale), [vim-surround](https://github.com/tpope/vim-surround)
 	* A book that took me 10 levels up with VIM: [Pratical Vim](https://www.amazon.com/Practical-Vim-Thought-Pragmatic-Programmers/dp/1934356980)
 
+1. [Trello for OSX](https://trello.com/platforms)
