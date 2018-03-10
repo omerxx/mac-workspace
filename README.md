@@ -33,7 +33,7 @@
 
 1. [Alfred](https://www.alfredapp.com/) - Spotlight in steroids (extreme search, hot-keys, workflows, keywords etc)
 
-1. [1Password](https://1password.com/) - An amazin password manager 
+1. [1Password](https://1password.com/) - An amazing password manager 
 	* Probably the most important piece of software I bought
 	* Costs a little, but ensures privacy, and keeps passwords / keys / tokens even credit cards
 	* Handles MFA with ease
