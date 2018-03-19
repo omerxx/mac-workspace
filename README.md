@@ -56,3 +56,8 @@
 	* A book that took me 10 levels up with VIM: [Pratical Vim](https://www.amazon.com/Practical-Vim-Thought-Pragmatic-Programmers/dp/1934356980)
 
 1. [Trello for OSX](https://trello.com/platforms)
+
+1. VPN
+	* `brew install openvpn`
+	* Download the ovpn client from your openvpn server
+	* Add to `~/.zshrc`: `alias vpn="openvpn ~/Downloads/client.ovpn"`
