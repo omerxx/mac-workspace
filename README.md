@@ -33,7 +33,7 @@
 
 1. [Alfred](https://www.alfredapp.com/) - Spotlight in steroids (extreme search, hot-keys, workflows, keywords etc)
 
-1. [1Password](https://1password.com/) - An amazing password manager 
+1. [1Password](https://1password.com/) - An amazing password manager
 	* Probably the most important piece of software I bought
 	* Costs a little, but ensures privacy, and keeps passwords / keys / tokens even credit cards
 	* Handles MFA with ease
@@ -61,3 +61,7 @@
 	* `brew install openvpn`
 	* Download the ovpn client from your openvpn server
 	* Add to `~/.zshrc`: `alias vpn="openvpn ~/Downloads/client.ovpn"`
+
+1. [Itsycal](https://www.mowglii.com/itsycal/) - A mini calendar for status top bar, super confortable and *open source*!
+
+1. [iGlance](MacOS system monitor for the status bar.) - MacOS system monitor for the status bar.
