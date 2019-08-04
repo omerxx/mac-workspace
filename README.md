@@ -64,4 +64,4 @@
 
 1. [Itsycal](https://www.mowglii.com/itsycal/) - A mini calendar for status top bar, super confortable and *open source*!
 
-1. [iGlance](MacOS system monitor for the status bar.) - MacOS system monitor for the status bar.
+1. [iGlance](https://github.com/iglance/iGlance) - MacOS system monitor for the status bar.
