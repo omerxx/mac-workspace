@@ -1,6 +1,6 @@
 # Mac Workspace
 
-### A curated list of OSX tools and workspace setups which I find useful and use on my own machine
+### A curated list of ~OSx~ MacOS tools and workspace setups which I find useful and use on my own machine
 
 ![Workspace](img/workspace1.png)
 
