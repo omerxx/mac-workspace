@@ -21,7 +21,9 @@
 	* [My `.zshrc`](https://github.com/omerxx/dotfiles/blob/master/zsh/.zshrc) with git mappings
 	* [My zsh custom theme](https://github.com/omerxx/dotfiles/blob/master/zsh/omer.zsh-theme)
 
-1. [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease
+1. ~[Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease~
+    EDIT: [Rectangle](https://github.com/rxhanson/Rectangle) the next generation of spectacle
+
 
 1. [Caffeine](http://lightheadsw.com/caffeine/) - Don't let your mac fall asleep
 
